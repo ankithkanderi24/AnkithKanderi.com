@@ -1,0 +1,26 @@
+html {
+    font-size: 15px; 
+    font-family: 'Roboto Flex', sans-serif;
+    background-color: gold;
+  }
+
+  h1 {
+      font-size: 50px;
+      text-align: center;
+  }
+
+  h2 {
+      font-size: 20px;
+      text-align: center;
+  }
+  img {
+    display: block;
+    margin: 0 auto;
+    border: 10px solid black;
+  }
+
+  a {
+    display: block;
+    text-align: center;
+  }
+  
